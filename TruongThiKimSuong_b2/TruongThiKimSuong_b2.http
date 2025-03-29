@@ -1,0 +1,6 @@
+@TruongThiKimSuong_b2_HostAddress = http://localhost:5058
+
+GET {{TruongThiKimSuong_b2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
